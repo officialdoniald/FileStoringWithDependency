@@ -2,10 +2,10 @@
 first version
 
 NOTE:
-You have to change in the Android, IOS and UWP Projects the 
-FileStoringWithDependency,
-to your project name
-,if you download this NuGet package!!!
+This NuGetPackage will create 3 another folders: UWP, iOS and Droid. That they are in a folder you have to move to the each Platform's folder like this:
+UWP -> <your_project_name>.UWP
+Droid -> <your_project_name>.Droid
+iOS -> <your_project_name>.iOS
 
 Usage:
 
