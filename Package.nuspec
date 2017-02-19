@@ -12,9 +12,9 @@
     <description>With this package you can create files, write files and load text from file.</description>
     <releaseNotes>This is the first version of this package. If you have idea, please contact with me.</releaseNotes>
     <copyright>Copyright 2017</copyright>
-    <tags>filefunction writefile loadfromfile createfile</tags>
+    <tags>filefunction, writefile, loadfromfile, createfile, xamarin.forms, android, ios, windows phone</tags>
   </metadata>
   <files>
-	<file src="" target=""/>
+     <file src="..\Refractored.Xam.Vibrate\bin\Release\Plugin.Vibrate.pdb" target="lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\Plugin.Vibrate.pdb" />
   </files>
 </package>
